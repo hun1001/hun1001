@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rp</a></h1>
-<h3 align="center">A student at Gyeonggi Game Meister High School aspiring to become a game developer</h3>
 
 <br>
 
