@@ -8,8 +8,6 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
-
 - 🌱 I’m currently learning Unity && <a href="https://github.com/hun1001/Project_RF" target="blank">C# Server</a>
 
 - 📝 I regularly write articles on [https://velog.io/@hun1001](https://velog.io/@hun1001)
